@@ -1,0 +1,7 @@
+{
+  "name": "Gemini Live Chat",
+  "description": "A real-time, voice-to-voice chatbot powered by Gemini 2.5 Native Audio API. Experience human-like, low-latency conversations with real-time transcription.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
